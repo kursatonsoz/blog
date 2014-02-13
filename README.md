@@ -1,0 +1,1 @@
+Uygulamanın çalıştırılması oldukça basittir. /admin/fonksiyon.php ve /application/config/database.php dosyalarında kendi sunucunuza ait bilgileri yazın. /application/config/config.php dosyasına da 17. satırda bulunan base_url kısmını çalıştırdığınız url'nin adını girin. blog.sql dosyası da tabloları oluşturmak için kullanacağınız dosyadır.
